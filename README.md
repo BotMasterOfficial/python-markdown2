@@ -19,9 +19,9 @@ There is another [Python
 markdown.py](https://python-markdown.github.io/). However, at
 least at the time this project was started, markdown2.py was faster (see the
 [Performance
-Notes](https://github.com/trentm/python-markdown2/wiki/Performance-Notes)) and,
+Notes](https://github.com/BotMasterOfficial/python-markdown2/wiki/Performance-Notes)) and,
 to my knowledge, more correct (see [Testing
-Notes](https://github.com/trentm/python-markdown2/wiki/Testing-Notes)).
+Notes](https://github.com/BotMasterOfficial/python-markdown2/wiki/Testing-Notes)).
 That was a while ago though, so you shouldn't discount Python-markdown from
 your consideration.
 
@@ -70,8 +70,8 @@ I think pip-based installation will enable this as well:
 ```shell
 $ markdown2 foo.md > foo.html
 ```
-See the [project wiki](https://github.com/trentm/python-markdown2/wiki),
-[lib/markdown2.py](https://github.com/trentm/python-markdown2/blob/master/lib/markdown2.py)
+See the [project wiki](https://github.com/BotMasterOfficial/python-markdown2/wiki),
+[lib/markdown2.py](https://github.com/BotMasterOfficial/python-markdown2/blob/master/lib/markdown2.py)
 docstrings and/or `python markdown2.py --help` for more details.
 
 
@@ -93,25 +93,25 @@ u'<p><em>boo!</em></p>\n'
 There are a number of currently implemented extras for tables, footnotes,
 syntax coloring of `<pre>`-blocks, auto-linking patterns, table of contents,
 Smarty Pants (for fancy quotes, dashes, etc.) and more. See the [Extras
-wiki page](https://github.com/trentm/python-markdown2/wiki/Extras) for full
+wiki page](https://github.com/BotMasterOfficial/python-markdown2/wiki/Extras) for full
 details.
 
 
 # Project
 
 The python-markdown2 project lives at
-<https://github.com/trentm/python-markdown2/>.  (Note: On Mar 6, 2011 this
+<https://github.com/BotMasterOfficial/python-markdown2/>.  (Note: On Mar 6, 2011 this
 project was moved from [Google Code](http://code.google.com/p/python-markdown2)
 to here on Github.) See also, [markdown2 on the Python Package Index
 (PyPI)](http://pypi.python.org/pypi/markdown2).
 
-The change log: <https://github.com/trentm/python-markdown2/blob/master/CHANGES.md>
+The change log: <https://github.com/BotMasterOfficial/python-markdown2/blob/master/CHANGES.md>
 
-To report a bug: <https://github.com/trentm/python-markdown2/issues>
+To report a bug: <https://github.com/BotMasterOfficial/python-markdown2/issues>
 
 # Contributing
 
-We welcome pull requests from the community. Please take a look at the [TODO](https://github.com/trentm/python-markdown2/blob/master/TODO.txt) for opportunities to help this project. For those wishing to submit a pull request to `python-markdown2` please ensure it fulfills the following requirements:
+We welcome pull requests from the community. Please take a look at the [BotMasterOfficial](https://github.com/BotMasterOfficial/python-markdown2/blob/master/TODO.txt) for opportunities to help this project. For those wishing to submit a pull request to `python-markdown2` please ensure it fulfills the following requirements:
 
 * It must pass PEP8.
 * It must include relevant test coverage.
@@ -135,5 +135,5 @@ set of matching .text (input) and .html (expected output) files. These are:
     php-markdown-extra-cases/   Tests also from MDTest package
 
 See the [Testing Notes wiki
-page](https://github.com/trentm/python-markdown2/wiki/Testing-Notes) for full
+page](https://github.com/BotMasterOfficial/python-markdown2/wiki/Testing-Notes) for full
 details.
